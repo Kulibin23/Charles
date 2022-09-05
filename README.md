@@ -13,10 +13,13 @@ request url params:
  name: str
  age: int
 
+**Response:**  
+```sh
 [
     “Str”,
     “Str”
 ]
+```
 
 Task:
 Сделать и в Rewrite, и в BreakPoint (можно отключить чтобы не стопило на каждом запросе)
