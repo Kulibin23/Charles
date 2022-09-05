@@ -13,7 +13,6 @@ request url params:
  name: str
  age: int
 
-response: 
 [
     “Str”,
     “Str”
